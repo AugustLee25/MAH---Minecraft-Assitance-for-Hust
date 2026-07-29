@@ -3,7 +3,7 @@ TÌM HIỂU VỀ KHẢ NĂNG ĐỒNG BỘ DỮ LIỆU GIỮA THẾ GIỚI THẬT
 
 
 
-# Đồ Án 1: Hệ Thống Đồng Bộ Dữ Liệu HUST News Vào Minecraft 
+# Hệ Thống Đồng Bộ Dữ Liệu HUST News Vào Minecraft 
 
     CHƯƠNG 1: TỔNG QUAN VÀ ĐẶT VẤN ĐỀ
 1.1 Bối cảnh và Đặt vấn đề
